@@ -2,18 +2,14 @@
   "name": "lost-and-pound",
   "version": "1.0.0",
   "description": "Project that helps individual users to post and locate missing pets. Allows users to log in and directly chat with each other. Also provides in depth information on individual types of animals so that users can be informed when they find an animal they aren't familiar with.",
-  "main": "index.html",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MousehMakes/Lost-And-Pound.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Shelby Thompson Blood",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MousehMakes/Lost-And-Pound/issues"
-  },
-  "homepage": "https://github.com/MousehMakes/Lost-And-Pound#readme"
+  }
 }
