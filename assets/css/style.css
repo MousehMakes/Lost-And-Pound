@@ -5,11 +5,23 @@ html{
 }
 
 body {
-    background: url('../images/backdrop.png') no-repeat center center fixed;
+    background-image: url('../imgs/Bg.png');
+    background-repeat:no-repeat;
+    background-position: center center;
     margin: 0;
     background-size: cover;
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
+    color: mediumpurple;
+}
+
+.jumbotron {
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    font-size: 30px;
+    background-color: mediumpurple !important;
+    
 }
