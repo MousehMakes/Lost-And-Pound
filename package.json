@@ -11,5 +11,14 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MousehMakes/Lost-And-Pound/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MousehMakes/Lost-And-Pound.git"
+  },
+  "homepage": "https://github.com/MousehMakes/Lost-And-Pound#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
   }
 }
